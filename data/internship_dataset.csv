@@ -1,0 +1,1001 @@
+CGPA,Number of Relevant Projects,Average Project Complexity,Previous Internship Experience,Relevant Certifications,Number of Programming Languages,Number of Technical Skills,Internship Domain Applied,Internship Outcome
+7.9,3,2,No,4,5,11,Cloud Computing,Selected
+6.56,1,2,No,3,4,6,Data Science and Analytics,Not Selected
+8.35,3,3,No,1,1,5,Artificial Intelligence and Machine Learning,Not Selected
+8.54,4,4,No,3,3,7,Cloud Computing,Selected
+5.65,2,3,Yes,0,1,4,Artificial Intelligence and Machine Learning,Not Selected
+6.3,1,2,No,0,4,7,Web Development,Not Selected
+7.73,6,5,No,3,1,9,Artificial Intelligence and Machine Learning,Selected
+7.28,4,3,Yes,2,2,5,Mobile App Development,Selected
+7.58,1,2,No,2,1,5,Artificial Intelligence and Machine Learning,Selected
+6.75,6,4,No,0,3,8,Artificial Intelligence and Machine Learning,Not Selected
+8.48,4,3,No,1,3,8,Web Development,Selected
+8.38,9,4,Yes,1,3,9,Web Development,Selected
+7.67,3,3,No,1,2,5,Software Engineering,Selected
+8.73,4,3,Yes,0,3,7,Data Science and Analytics,Selected
+8.07,0,1,No,1,2,5,Cloud Computing,Not Selected
+6.74,3,3,No,2,3,8,Cloud Computing,Not Selected
+7.97,2,2,No,0,7,8,Artificial Intelligence and Machine Learning,Not Selected
+6.64,2,2,Yes,2,3,6,Cloud Computing,Not Selected
+8.48,4,3,No,2,5,5,Software Engineering,Selected
+7.55,2,3,Yes,2,4,5,Cloud Computing,Not Selected
+7.42,4,2,No,5,2,7,Cloud Computing,Selected
+6.92,7,5,Yes,3,4,8,Data Science and Analytics,Selected
+8.82,3,3,No,3,3,8,Mobile App Development,Selected
+7.45,2,4,No,3,2,4,Web Development,Not Selected
+7.17,6,3,No,3,4,8,Cloud Computing,Selected
+7.25,4,3,Yes,1,3,6,Artificial Intelligence and Machine Learning,Not Selected
+8.13,2,4,No,1,4,8,Cybersecurity,Not Selected
+7.97,1,2,No,4,1,4,Mobile App Development,Not Selected
+8.01,1,3,No,1,4,6,Cybersecurity,Selected
+8.03,2,3,No,2,6,8,Web Development,Selected
+9.74,3,4,No,3,3,8,Cloud Computing,Selected
+7.19,4,3,No,0,2,6,Software Engineering,Not Selected
+7.09,4,4,No,0,1,5,Cybersecurity,Not Selected
+6.79,3,2,No,3,2,4,Mobile App Development,Not Selected
+8.22,2,2,No,1,2,5,Mobile App Development,Not Selected
+8.73,1,2,No,1,3,5,Mobile App Development,Not Selected
+7.49,4,3,No,1,3,7,Artificial Intelligence and Machine Learning,Selected
+6.76,6,3,No,3,1,6,Data Science and Analytics,Not Selected
+6.78,3,3,Yes,3,7,11,Mobile App Development,Selected
+8.25,4,4,No,3,2,7,Software Engineering,Selected
+8.34,1,2,Yes,0,2,3,Web Development,Not Selected
+8.14,3,3,No,1,2,5,Web Development,Not Selected
+6.93,4,2,No,1,4,10,Artificial Intelligence and Machine Learning,Selected
+7.83,3,4,No,1,2,6,Cloud Computing,Not Selected
+7.72,0,2,No,1,3,6,Mobile App Development,Not Selected
+7.82,3,3,Yes,0,1,3,Cybersecurity,Not Selected
+8.47,4,2,Yes,3,2,6,Web Development,Selected
+7.82,2,3,No,0,4,5,Artificial Intelligence and Machine Learning,Not Selected
+8.28,2,3,No,0,3,5,Mobile App Development,Not Selected
+7.67,2,3,No,3,2,5,Artificial Intelligence and Machine Learning,Not Selected
+7.89,2,3,No,2,5,7,Web Development,Not Selected
+8.23,1,4,Yes,1,6,7,Artificial Intelligence and Machine Learning,Selected
+6.14,3,2,No,3,4,7,Mobile App Development,Selected
+7.28,3,2,No,3,4,7,Data Science and Analytics,Selected
+7.13,2,2,Yes,2,1,6,Web Development,Not Selected
+6.96,5,5,Yes,1,3,5,Artificial Intelligence and Machine Learning,Selected
+7.32,5,4,Yes,1,1,6,Software Engineering,Selected
+9.09,5,4,No,1,6,11,Data Science and Analytics,Selected
+6.73,2,3,Yes,1,4,6,Data Science and Analytics,Selected
+8.57,1,2,No,0,3,4,Web Development,Not Selected
+5.92,4,4,No,0,4,8,Artificial Intelligence and Machine Learning,Selected
+7.27,5,3,No,3,4,7,Mobile App Development,Selected
+7.76,4,3,Yes,1,6,9,Cloud Computing,Selected
+8.19,2,3,Yes,1,2,4,Data Science and Analytics,Selected
+8.31,3,3,Yes,4,3,5,Mobile App Development,Selected
+8.39,6,4,No,0,2,6,Artificial Intelligence and Machine Learning,Selected
+7.25,2,3,No,0,6,6,Mobile App Development,Selected
+7.14,2,3,No,3,4,7,Web Development,Not Selected
+8.46,0,3,Yes,4,2,6,Artificial Intelligence and Machine Learning,Not Selected
+7.41,2,3,No,0,4,8,Mobile App Development,Not Selected
+6.32,4,4,No,2,1,6,Software Engineering,Not Selected
+6.47,5,3,Yes,1,1,7,Cloud Computing,Selected
+6.68,3,2,No,1,2,6,Cybersecurity,Not Selected
+8.1,6,4,Yes,0,3,7,Mobile App Development,Selected
+7.74,2,3,No,2,2,3,Cloud Computing,Not Selected
+8.29,5,3,Yes,0,4,9,Artificial Intelligence and Machine Learning,Selected
+7.17,3,3,No,1,1,3,Data Science and Analytics,Not Selected
+7.76,2,3,No,0,2,6,Cybersecurity,Not Selected
+8.23,3,3,No,1,2,6,Cybersecurity,Selected
+7.29,3,4,No,3,1,4,Mobile App Development,Selected
+8.06,3,3,No,3,3,7,Data Science and Analytics,Selected
+6.94,2,4,No,1,2,7,Web Development,Not Selected
+7.24,4,3,No,1,4,9,Web Development,Not Selected
+7.22,5,3,Yes,3,3,7,Mobile App Development,Selected
+6.4,3,2,No,2,6,8,Web Development,Not Selected
+8.09,3,3,Yes,3,2,6,Mobile App Development,Selected
+7.13,3,3,Yes,2,2,6,Web Development,Selected
+7.61,4,2,No,0,4,8,Artificial Intelligence and Machine Learning,Selected
+8.08,2,2,Yes,0,1,5,Mobile App Development,Not Selected
+8.05,3,3,No,1,2,3,Data Science and Analytics,Not Selected
+8.27,6,4,No,1,3,8,Mobile App Development,Selected
+7.5,4,4,No,1,2,6,Web Development,Selected
+7.18,6,3,Yes,5,3,9,Data Science and Analytics,Selected
+7.52,1,3,No,0,6,7,Cybersecurity,Not Selected
+5.91,2,2,No,1,2,6,Mobile App Development,Not Selected
+6.15,2,1,Yes,1,1,5,Web Development,Not Selected
+6.28,1,2,No,4,1,4,Artificial Intelligence and Machine Learning,Not Selected
+6.6,5,4,Yes,0,4,7,Cybersecurity,Selected
+8.0,1,1,Yes,2,1,3,Software Engineering,Not Selected
+6.69,1,2,Yes,2,7,6,Mobile App Development,Selected
+7.22,4,4,Yes,1,1,5,Mobile App Development,Selected
+8.9,5,3,Yes,4,3,10,Data Science and Analytics,Selected
+7.24,3,3,No,0,3,4,Cybersecurity,Not Selected
+8.34,3,2,Yes,2,2,6,Mobile App Development,Selected
+6.67,4,4,Yes,0,1,5,Mobile App Development,Not Selected
+7.39,2,3,No,2,2,6,Mobile App Development,Not Selected
+6.65,2,3,No,1,1,3,Mobile App Development,Not Selected
+7.26,5,4,Yes,2,1,4,Mobile App Development,Selected
+8.44,1,3,No,2,6,6,Web Development,Selected
+5.87,2,2,No,2,6,10,Artificial Intelligence and Machine Learning,Selected
+8.03,4,3,No,1,2,5,Software Engineering,Selected
+7.84,7,4,No,4,3,9,Data Science and Analytics,Selected
+7.01,6,3,Yes,2,4,11,Web Development,Selected
+6.15,4,2,No,0,3,5,Data Science and Analytics,Not Selected
+7.67,4,3,Yes,0,6,9,Cybersecurity,Selected
+7.07,2,2,Yes,0,4,7,Mobile App Development,Not Selected
+7.83,2,4,No,3,3,8,Mobile App Development,Selected
+7.62,4,3,Yes,3,5,7,Web Development,Selected
+9.2,2,2,No,1,6,7,Data Science and Analytics,Not Selected
+7.36,1,2,Yes,2,2,5,Web Development,Not Selected
+6.58,2,1,Yes,2,6,10,Mobile App Development,Selected
+7.78,6,3,No,4,4,8,Web Development,Not Selected
+7.82,2,3,Yes,1,2,4,Cybersecurity,Selected
+8.96,3,5,No,4,2,7,Cybersecurity,Selected
+8.44,1,3,No,1,4,6,Cybersecurity,Not Selected
+7.96,3,3,Yes,0,4,7,Cybersecurity,Not Selected
+9.06,10,5,Yes,1,3,8,Cloud Computing,Selected
+6.41,1,2,No,0,5,5,Cybersecurity,Not Selected
+6.96,4,5,No,0,4,7,Web Development,Selected
+6.67,2,2,No,1,6,9,Artificial Intelligence and Machine Learning,Not Selected
+7.21,7,5,Yes,2,3,8,Data Science and Analytics,Selected
+6.22,4,4,No,0,3,6,Artificial Intelligence and Machine Learning,Selected
+8.24,1,1,No,0,2,3,Cloud Computing,Not Selected
+7.38,2,2,No,1,1,6,Artificial Intelligence and Machine Learning,Not Selected
+6.13,3,2,Yes,2,4,7,Mobile App Development,Not Selected
+6.58,3,3,No,1,1,6,Web Development,Not Selected
+7.91,3,3,No,2,2,6,Cloud Computing,Selected
+8.44,4,5,No,3,5,9,Web Development,Selected
+9.6,4,3,No,1,4,5,Data Science and Analytics,Selected
+9.95,0,3,Yes,0,2,1,Artificial Intelligence and Machine Learning,Not Selected
+8.01,2,3,No,0,4,7,Cybersecurity,Not Selected
+6.61,3,3,No,2,3,6,Web Development,Selected
+5.47,3,3,Yes,1,5,8,Cloud Computing,Not Selected
+7.87,2,2,No,2,2,4,Cybersecurity,Not Selected
+6.79,7,4,No,4,2,7,Software Engineering,Selected
+7.18,3,3,No,1,1,6,Cloud Computing,Selected
+6.99,1,3,No,1,2,6,Cybersecurity,Selected
+7.46,5,4,Yes,5,3,8,Mobile App Development,Selected
+8.67,2,4,Yes,1,2,6,Web Development,Selected
+7.76,4,4,Yes,2,1,6,Cybersecurity,Selected
+7.44,0,2,Yes,0,3,4,Artificial Intelligence and Machine Learning,Selected
+6.56,3,2,No,1,5,10,Cloud Computing,Not Selected
+5.93,4,3,No,1,4,7,Web Development,Selected
+7.11,4,3,No,2,2,8,Data Science and Analytics,Selected
+7.55,9,5,No,0,4,10,Cybersecurity,Selected
+9.37,1,2,Yes,3,3,6,Data Science and Analytics,Not Selected
+7.73,6,3,No,5,4,11,Artificial Intelligence and Machine Learning,Selected
+8.58,4,3,Yes,2,4,8,Data Science and Analytics,Selected
+7.1,8,3,Yes,6,2,10,Mobile App Development,Selected
+6.42,4,3,Yes,0,4,8,Web Development,Not Selected
+6.63,6,3,Yes,3,2,9,Artificial Intelligence and Machine Learning,Selected
+6.87,1,2,No,2,3,7,Software Engineering,Not Selected
+9.73,4,3,No,2,3,2,Software Engineering,Selected
+6.78,2,2,No,2,2,6,Web Development,Not Selected
+8.44,2,3,No,1,4,6,Data Science and Analytics,Selected
+6.7,5,4,Yes,0,5,8,Web Development,Selected
+8.53,3,3,No,1,1,5,Software Engineering,Not Selected
+7.98,0,2,No,2,4,6,Data Science and Analytics,Not Selected
+7.44,6,4,No,4,1,8,Data Science and Analytics,Selected
+7.56,4,3,Yes,0,4,6,Artificial Intelligence and Machine Learning,Selected
+6.95,5,3,No,0,2,8,Cybersecurity,Not Selected
+8.05,1,3,No,3,5,8,Web Development,Not Selected
+7.15,1,3,Yes,0,5,7,Cloud Computing,Not Selected
+6.37,2,3,No,3,2,6,Data Science and Analytics,Not Selected
+6.32,4,4,No,1,2,7,Cybersecurity,Not Selected
+7.77,5,2,No,1,6,10,Mobile App Development,Selected
+9.18,3,4,No,2,2,6,Web Development,Selected
+7.76,1,3,No,1,6,8,Web Development,Selected
+7.48,4,4,Yes,1,1,5,Data Science and Analytics,Selected
+7.89,3,3,No,2,3,9,Cloud Computing,Selected
+8.91,4,3,Yes,3,5,10,Web Development,Selected
+7.82,3,3,Yes,1,3,5,Cloud Computing,Selected
+7.19,3,3,No,2,4,10,Data Science and Analytics,Selected
+8.71,2,3,No,3,5,5,Cybersecurity,Selected
+8.03,3,4,No,2,2,6,Cybersecurity,Selected
+9.14,7,3,No,1,4,8,Web Development,Selected
+7.78,3,3,No,7,3,11,Artificial Intelligence and Machine Learning,Selected
+6.38,6,5,No,3,5,10,Cloud Computing,Selected
+6.23,1,2,No,1,1,3,Data Science and Analytics,Not Selected
+9.25,1,2,Yes,1,6,7,Cybersecurity,Not Selected
+9.32,3,3,Yes,1,5,7,Software Engineering,Selected
+7.42,3,3,Yes,1,3,6,Web Development,Selected
+7.22,5,3,No,1,5,8,Data Science and Analytics,Selected
+9.06,6,4,Yes,1,4,7,Artificial Intelligence and Machine Learning,Selected
+6.49,2,3,No,2,2,6,Web Development,Not Selected
+6.71,7,3,No,2,3,9,Software Engineering,Selected
+8.24,7,5,Yes,1,2,6,Software Engineering,Selected
+7.21,4,4,No,3,7,8,Artificial Intelligence and Machine Learning,Selected
+7.59,3,4,No,1,3,6,Software Engineering,Selected
+7.44,1,2,No,0,4,6,Web Development,Not Selected
+7.94,4,5,No,3,4,9,Software Engineering,Selected
+9.01,0,3,No,0,2,4,Mobile App Development,Not Selected
+7.69,2,3,No,1,4,8,Web Development,Selected
+8.24,1,2,Yes,2,1,5,Cybersecurity,Not Selected
+5.55,1,2,No,0,1,6,Cloud Computing,Not Selected
+7.55,0,3,No,1,3,8,Artificial Intelligence and Machine Learning,Not Selected
+6.76,3,4,No,0,4,4,Artificial Intelligence and Machine Learning,Not Selected
+6.38,1,3,Yes,2,7,6,Cybersecurity,Not Selected
+6.72,2,3,No,1,5,7,Web Development,Not Selected
+7.27,3,2,No,2,2,6,Web Development,Not Selected
+8.52,5,4,No,0,6,9,Artificial Intelligence and Machine Learning,Selected
+6.27,3,2,No,2,4,8,Cloud Computing,Not Selected
+7.63,1,1,No,4,5,7,Artificial Intelligence and Machine Learning,Not Selected
+7.12,1,3,No,1,4,5,Data Science and Analytics,Selected
+7.27,6,4,Yes,2,2,7,Web Development,Selected
+8.6,3,4,No,4,1,6,Web Development,Selected
+8.14,3,3,Yes,0,7,9,Cybersecurity,Selected
+8.94,4,4,No,1,1,5,Web Development,Not Selected
+7.45,2,2,No,2,4,6,Cybersecurity,Not Selected
+6.9,5,3,Yes,1,5,9,Data Science and Analytics,Selected
+7.38,5,2,No,0,6,8,Cybersecurity,Not Selected
+7.84,2,1,Yes,3,3,8,Artificial Intelligence and Machine Learning,Not Selected
+7.78,6,4,No,0,6,8,Mobile App Development,Selected
+6.52,1,2,No,0,4,4,Web Development,Not Selected
+7.69,5,4,No,0,4,8,Mobile App Development,Selected
+7.83,4,4,No,3,3,8,Artificial Intelligence and Machine Learning,Selected
+9.95,3,3,Yes,1,5,6,Web Development,Selected
+9.48,2,3,Yes,2,2,7,Cybersecurity,Selected
+6.75,3,2,No,1,4,9,Artificial Intelligence and Machine Learning,Selected
+7.31,6,2,No,4,5,9,Data Science and Analytics,Selected
+6.14,3,3,No,1,2,7,Mobile App Development,Not Selected
+7.01,1,2,Yes,1,3,2,Cloud Computing,Not Selected
+7.92,1,2,No,2,1,5,Cybersecurity,Not Selected
+8.81,3,5,No,2,3,5,Software Engineering,Selected
+6.87,0,1,No,1,4,6,Data Science and Analytics,Not Selected
+6.95,3,3,No,2,2,5,Web Development,Not Selected
+5.45,0,1,No,1,5,6,Mobile App Development,Not Selected
+7.44,3,4,No,3,2,5,Artificial Intelligence and Machine Learning,Not Selected
+6.54,3,3,No,0,6,7,Web Development,Selected
+7.07,3,3,No,2,3,9,Web Development,Selected
+6.72,2,2,No,1,2,5,Artificial Intelligence and Machine Learning,Not Selected
+7.51,7,3,Yes,3,5,13,Artificial Intelligence and Machine Learning,Selected
+5.84,2,3,No,2,2,5,Artificial Intelligence and Machine Learning,Not Selected
+6.13,2,4,No,2,5,9,Cybersecurity,Selected
+9.73,5,4,No,1,5,6,Cloud Computing,Selected
+6.31,1,2,No,1,3,5,Software Engineering,Not Selected
+6.5,3,3,Yes,2,2,5,Web Development,Not Selected
+9.44,5,5,Yes,2,1,8,Web Development,Selected
+9.95,4,4,No,1,4,7,Cybersecurity,Selected
+6.43,3,4,Yes,3,4,5,Web Development,Not Selected
+7.23,0,2,Yes,0,5,4,Artificial Intelligence and Machine Learning,Not Selected
+7.94,3,3,Yes,1,3,5,Cybersecurity,Selected
+9.33,3,4,No,1,1,6,Cloud Computing,Not Selected
+6.61,5,4,No,1,5,9,Web Development,Selected
+7.35,2,2,No,3,1,5,Cybersecurity,Not Selected
+8.38,2,2,No,1,1,3,Cybersecurity,Not Selected
+8.03,5,4,Yes,1,3,8,Mobile App Development,Selected
+7.22,3,4,Yes,2,1,4,Artificial Intelligence and Machine Learning,Selected
+7.47,3,4,No,1,1,5,Cloud Computing,Not Selected
+6.23,0,3,No,0,8,8,Cloud Computing,Not Selected
+7.36,2,3,No,2,1,4,Artificial Intelligence and Machine Learning,Not Selected
+7.33,1,2,No,0,4,6,Cybersecurity,Not Selected
+7.83,1,3,No,0,4,5,Cybersecurity,Not Selected
+7.04,2,3,Yes,2,4,7,Artificial Intelligence and Machine Learning,Selected
+8.07,3,2,No,0,3,4,Data Science and Analytics,Not Selected
+8.61,0,2,Yes,1,8,9,Data Science and Analytics,Not Selected
+7.76,5,4,No,1,3,8,Cloud Computing,Selected
+7.95,7,4,Yes,4,7,12,Web Development,Selected
+7.65,2,3,No,0,4,7,Data Science and Analytics,Selected
+7.6,4,4,Yes,2,7,10,Web Development,Selected
+6.88,4,4,Yes,1,3,8,Cybersecurity,Selected
+7.92,2,4,No,1,3,6,Cloud Computing,Selected
+7.5,3,2,No,3,1,4,Data Science and Analytics,Not Selected
+9.69,4,4,Yes,0,2,6,Data Science and Analytics,Selected
+9.17,3,4,No,2,6,7,Artificial Intelligence and Machine Learning,Selected
+7.99,2,2,Yes,0,7,8,Artificial Intelligence and Machine Learning,Selected
+6.84,7,3,Yes,2,5,9,Cloud Computing,Selected
+6.49,4,2,Yes,4,5,9,Web Development,Selected
+8.79,4,3,No,3,4,8,Cloud Computing,Selected
+7.86,2,4,No,1,6,7,Cybersecurity,Not Selected
+8.08,3,4,Yes,5,1,7,Mobile App Development,Not Selected
+5.86,4,2,No,3,4,8,Artificial Intelligence and Machine Learning,Selected
+8.53,3,3,No,3,8,10,Data Science and Analytics,Selected
+8.05,5,4,No,0,3,8,Web Development,Selected
+6.49,3,3,Yes,1,4,7,Software Engineering,Not Selected
+7.13,3,3,No,2,2,6,Cybersecurity,Not Selected
+7.86,3,3,No,0,3,7,Cybersecurity,Not Selected
+7.65,0,3,No,0,2,5,Cloud Computing,Not Selected
+7.31,3,4,Yes,1,3,7,Artificial Intelligence and Machine Learning,Selected
+7.5,4,2,No,1,3,6,Cybersecurity,Not Selected
+7.35,3,3,Yes,1,3,4,Mobile App Development,Selected
+7.75,2,3,Yes,0,4,6,Web Development,Selected
+9.07,2,3,Yes,2,4,8,Software Engineering,Selected
+5.03,4,4,Yes,1,2,6,Mobile App Development,Not Selected
+7.36,5,4,No,2,6,5,Software Engineering,Selected
+7.78,4,3,Yes,4,2,8,Mobile App Development,Selected
+7.9,3,3,No,3,1,7,Artificial Intelligence and Machine Learning,Selected
+7.23,7,3,Yes,0,3,7,Cybersecurity,Selected
+5.84,4,3,No,1,2,7,Web Development,Selected
+7.93,3,3,Yes,1,4,7,Cloud Computing,Not Selected
+9.33,3,2,Yes,1,3,5,Web Development,Selected
+6.07,4,4,No,3,3,9,Mobile App Development,Selected
+8.46,1,3,Yes,0,5,4,Artificial Intelligence and Machine Learning,Selected
+7.27,1,2,No,1,2,4,Web Development,Not Selected
+7.54,0,2,No,1,2,4,Web Development,Not Selected
+6.55,6,4,No,6,3,9,Cloud Computing,Selected
+7.27,5,4,No,4,7,11,Web Development,Selected
+8.9,2,2,No,6,2,8,Web Development,Selected
+8.18,2,3,Yes,1,2,6,Web Development,Not Selected
+9.33,2,4,No,1,1,5,Artificial Intelligence and Machine Learning,Not Selected
+8.78,1,1,No,1,2,2,Software Engineering,Not Selected
+8.04,1,2,Yes,3,2,3,Data Science and Analytics,Selected
+9.34,3,3,Yes,0,1,4,Artificial Intelligence and Machine Learning,Not Selected
+8.04,4,3,No,5,3,8,Web Development,Selected
+8.43,5,3,Yes,3,2,7,Web Development,Selected
+7.3,1,2,No,0,3,7,Artificial Intelligence and Machine Learning,Not Selected
+7.67,3,4,No,1,3,6,Web Development,Not Selected
+6.9,3,3,No,2,7,10,Web Development,Selected
+8.59,2,3,Yes,0,2,6,Web Development,Selected
+6.42,6,5,No,2,2,7,Artificial Intelligence and Machine Learning,Selected
+8.38,2,2,No,1,3,9,Cloud Computing,Not Selected
+7.41,5,5,Yes,3,2,6,Web Development,Selected
+8.77,3,3,No,2,4,6,Cybersecurity,Not Selected
+8.35,2,4,No,1,1,3,Cybersecurity,Selected
+9.42,5,4,Yes,2,2,9,Mobile App Development,Selected
+8.33,1,3,No,0,2,5,Web Development,Not Selected
+6.03,1,2,No,1,3,4,Cloud Computing,Not Selected
+7.53,2,2,No,2,3,5,Mobile App Development,Not Selected
+6.43,2,3,Yes,1,1,6,Software Engineering,Not Selected
+7.08,1,3,No,4,2,6,Mobile App Development,Not Selected
+9.11,3,3,No,5,4,10,Web Development,Selected
+8.24,3,3,No,2,2,6,Software Engineering,Selected
+6.9,5,3,No,1,4,8,Mobile App Development,Selected
+6.59,6,4,Yes,3,2,8,Web Development,Selected
+7.63,1,3,No,0,5,5,Web Development,Not Selected
+6.38,1,2,No,1,2,4,Software Engineering,Not Selected
+6.93,2,2,No,3,4,6,Web Development,Not Selected
+7.91,4,4,No,3,4,9,Cloud Computing,Selected
+8.76,6,5,No,3,2,9,Data Science and Analytics,Selected
+8.21,7,5,Yes,1,2,8,Cloud Computing,Selected
+5.31,3,2,No,1,4,7,Web Development,Not Selected
+7.9,1,2,No,2,1,4,Cloud Computing,Not Selected
+7.67,7,3,No,1,2,9,Data Science and Analytics,Selected
+8.01,2,3,No,1,2,6,Software Engineering,Selected
+9.22,3,4,No,2,2,7,Web Development,Selected
+5.54,5,2,No,1,2,8,Web Development,Not Selected
+7.01,5,2,No,3,2,7,Web Development,Selected
+8.19,1,2,Yes,0,2,4,Web Development,Not Selected
+6.02,3,3,Yes,3,5,9,Software Engineering,Not Selected
+9.08,1,3,No,2,3,4,Web Development,Not Selected
+7.97,5,4,Yes,1,8,9,Web Development,Selected
+8.45,3,4,No,2,3,5,Mobile App Development,Selected
+7.03,6,2,No,0,3,7,Artificial Intelligence and Machine Learning,Not Selected
+8.41,0,3,Yes,2,1,3,Artificial Intelligence and Machine Learning,Selected
+8.67,4,3,No,2,2,4,Cybersecurity,Not Selected
+7.83,6,4,Yes,2,3,8,Artificial Intelligence and Machine Learning,Selected
+7.83,1,2,Yes,2,3,5,Mobile App Development,Not Selected
+7.87,2,3,No,2,1,6,Cybersecurity,Not Selected
+6.74,2,3,Yes,4,6,11,Artificial Intelligence and Machine Learning,Selected
+7.45,4,4,No,2,1,6,Cybersecurity,Not Selected
+7.45,7,3,Yes,2,3,8,Mobile App Development,Selected
+7.98,4,3,No,1,2,7,Artificial Intelligence and Machine Learning,Not Selected
+8.6,3,2,No,2,4,7,Cloud Computing,Not Selected
+6.54,4,3,No,1,2,6,Data Science and Analytics,Selected
+7.47,3,3,Yes,1,1,4,Data Science and Analytics,Selected
+9.08,4,4,No,2,2,6,Cloud Computing,Selected
+6.86,2,2,Yes,4,3,6,Web Development,Not Selected
+6.78,5,4,No,1,6,10,Data Science and Analytics,Selected
+7.8,1,3,No,2,4,7,Web Development,Not Selected
+8.44,2,2,No,1,2,7,Cloud Computing,Selected
+7.61,7,4,No,3,2,9,Cybersecurity,Selected
+8.93,1,3,Yes,3,3,6,Artificial Intelligence and Machine Learning,Selected
+8.46,2,3,No,1,3,5,Web Development,Not Selected
+8.44,0,1,No,3,2,3,Software Engineering,Not Selected
+8.15,2,3,No,1,2,4,Artificial Intelligence and Machine Learning,Selected
+9.93,5,3,No,2,6,9,Artificial Intelligence and Machine Learning,Selected
+7.39,2,3,No,2,4,4,Web Development,Selected
+5.6,6,3,Yes,3,4,8,Cybersecurity,Selected
+9.2,0,3,Yes,1,1,5,Artificial Intelligence and Machine Learning,Selected
+7.14,2,2,No,4,2,6,Mobile App Development,Not Selected
+7.71,6,3,Yes,1,7,10,Cloud Computing,Selected
+8.91,7,4,No,0,2,7,Web Development,Selected
+6.0,5,4,No,2,3,5,Cybersecurity,Selected
+6.35,1,4,No,1,2,5,Artificial Intelligence and Machine Learning,Not Selected
+6.0,5,2,No,1,5,10,Web Development,Selected
+6.81,2,3,Yes,4,4,7,Cybersecurity,Selected
+8.04,7,3,Yes,1,1,4,Web Development,Selected
+8.12,8,5,No,0,1,6,Mobile App Development,Selected
+7.88,2,2,Yes,3,6,10,Cybersecurity,Selected
+6.19,3,2,No,2,2,6,Web Development,Not Selected
+5.29,3,2,Yes,2,1,3,Software Engineering,Not Selected
+7.65,4,3,No,1,1,8,Data Science and Analytics,Selected
+7.13,5,4,No,2,3,6,Web Development,Selected
+8.06,3,3,No,1,6,8,Data Science and Analytics,Selected
+8.3,3,3,No,2,1,4,Software Engineering,Not Selected
+7.74,4,2,Yes,3,1,5,Data Science and Analytics,Selected
+8.36,5,4,Yes,0,1,5,Data Science and Analytics,Selected
+7.83,5,3,No,4,5,10,Data Science and Analytics,Selected
+8.13,4,4,No,0,2,7,Artificial Intelligence and Machine Learning,Selected
+6.9,3,2,Yes,0,5,7,Web Development,Selected
+7.42,2,2,No,1,1,3,Cybersecurity,Selected
+7.8,2,3,Yes,1,1,5,Mobile App Development,Not Selected
+8.42,4,4,Yes,3,2,7,Cloud Computing,Selected
+7.21,3,3,No,1,1,5,Web Development,Not Selected
+8.12,2,3,No,2,5,8,Data Science and Analytics,Not Selected
+7.33,3,2,No,0,4,6,Web Development,Not Selected
+7.48,3,4,No,5,4,8,Artificial Intelligence and Machine Learning,Selected
+8.43,3,2,No,2,1,5,Cybersecurity,Not Selected
+5.61,4,2,No,0,3,7,Artificial Intelligence and Machine Learning,Not Selected
+6.3,1,3,No,2,2,7,Mobile App Development,Not Selected
+6.12,3,1,No,1,1,5,Data Science and Analytics,Not Selected
+5.27,8,5,No,3,3,9,Cybersecurity,Selected
+6.92,1,3,No,2,3,6,Mobile App Development,Not Selected
+8.35,5,4,No,0,1,4,Cloud Computing,Selected
+7.32,2,3,Yes,0,1,5,Mobile App Development,Not Selected
+7.8,4,3,No,2,4,8,Mobile App Development,Selected
+8.69,1,2,No,1,1,3,Cybersecurity,Not Selected
+8.93,2,3,No,2,4,8,Artificial Intelligence and Machine Learning,Selected
+7.53,5,3,Yes,2,2,7,Artificial Intelligence and Machine Learning,Selected
+8.95,4,4,No,1,3,5,Mobile App Development,Not Selected
+7.69,6,4,No,2,4,9,Web Development,Selected
+6.76,1,3,No,1,3,5,Software Engineering,Not Selected
+7.01,1,3,Yes,1,2,5,Artificial Intelligence and Machine Learning,Selected
+6.12,3,3,No,2,7,10,Cloud Computing,Not Selected
+6.71,1,2,No,3,1,4,Artificial Intelligence and Machine Learning,Not Selected
+7.24,1,2,Yes,1,3,4,Software Engineering,Not Selected
+8.4,0,3,No,3,6,7,Web Development,Selected
+9.32,4,3,No,1,1,6,Artificial Intelligence and Machine Learning,Not Selected
+6.22,2,3,Yes,1,4,7,Mobile App Development,Not Selected
+7.99,7,3,No,2,3,9,Artificial Intelligence and Machine Learning,Selected
+6.56,6,3,No,3,2,7,Artificial Intelligence and Machine Learning,Selected
+8.07,1,3,No,0,3,6,Mobile App Development,Not Selected
+7.47,3,4,No,1,2,4,Mobile App Development,Not Selected
+5.77,2,2,Yes,1,1,7,Web Development,Not Selected
+8.53,2,3,No,2,1,5,Cybersecurity,Selected
+6.99,4,3,No,2,3,6,Artificial Intelligence and Machine Learning,Not Selected
+7.07,5,3,No,2,2,7,Web Development,Selected
+6.53,2,4,No,3,3,7,Cybersecurity,Selected
+6.95,2,3,No,0,3,5,Web Development,Not Selected
+8.03,2,3,No,0,5,5,Data Science and Analytics,Selected
+7.41,2,4,Yes,3,2,4,Artificial Intelligence and Machine Learning,Selected
+7.93,1,2,No,3,5,8,Mobile App Development,Not Selected
+7.96,2,2,Yes,1,3,3,Data Science and Analytics,Not Selected
+8.92,1,2,No,0,4,4,Web Development,Not Selected
+7.26,1,2,No,2,3,6,Software Engineering,Not Selected
+6.12,3,1,No,2,3,6,Mobile App Development,Not Selected
+8.67,0,2,Yes,2,4,5,Artificial Intelligence and Machine Learning,Selected
+7.27,2,2,No,2,6,7,Software Engineering,Selected
+8.71,5,4,No,2,3,6,Artificial Intelligence and Machine Learning,Selected
+7.98,4,4,Yes,3,3,8,Artificial Intelligence and Machine Learning,Selected
+7.47,4,3,No,2,6,8,Artificial Intelligence and Machine Learning,Selected
+7.95,3,3,No,1,2,5,Web Development,Not Selected
+9.55,3,4,Yes,3,3,7,Cloud Computing,Selected
+9.68,2,2,No,2,4,6,Data Science and Analytics,Selected
+7.67,1,2,No,2,4,5,Mobile App Development,Not Selected
+7.76,2,1,No,4,2,4,Artificial Intelligence and Machine Learning,Not Selected
+8.68,2,2,Yes,1,1,5,Web Development,Selected
+6.75,5,3,No,4,3,8,Artificial Intelligence and Machine Learning,Selected
+7.93,4,3,Yes,4,1,6,Web Development,Selected
+7.57,1,2,Yes,1,6,6,Software Engineering,Selected
+7.91,1,2,No,0,3,5,Cloud Computing,Not Selected
+6.77,3,2,No,4,1,6,Cloud Computing,Selected
+6.01,2,3,No,2,4,7,Cloud Computing,Not Selected
+5.53,5,3,No,2,6,11,Artificial Intelligence and Machine Learning,Selected
+6.48,3,3,No,1,5,8,Web Development,Selected
+7.14,0,2,Yes,2,2,4,Data Science and Analytics,Not Selected
+7.31,4,2,Yes,0,3,7,Mobile App Development,Selected
+9.54,3,3,No,4,6,9,Artificial Intelligence and Machine Learning,Selected
+8.71,2,3,No,2,3,6,Web Development,Not Selected
+6.64,2,2,Yes,2,2,7,Cybersecurity,Not Selected
+7.95,8,4,Yes,2,2,7,Web Development,Selected
+7.19,2,4,Yes,2,2,5,Data Science and Analytics,Selected
+7.32,1,3,No,2,3,7,Web Development,Selected
+7.79,4,3,Yes,0,1,5,Data Science and Analytics,Not Selected
+8.22,4,4,Yes,1,3,6,Artificial Intelligence and Machine Learning,Selected
+7.26,2,3,No,0,4,4,Mobile App Development,Not Selected
+8.66,4,3,No,5,3,5,Cloud Computing,Selected
+6.46,3,3,Yes,3,4,10,Web Development,Selected
+7.61,5,3,No,1,3,7,Cloud Computing,Not Selected
+9.95,3,2,No,1,5,7,Cloud Computing,Not Selected
+7.82,3,3,No,2,3,7,Cybersecurity,Not Selected
+9.03,2,3,No,0,8,7,Software Engineering,Selected
+7.69,5,3,Yes,1,1,5,Mobile App Development,Selected
+8.18,3,3,No,2,5,7,Web Development,Selected
+7.54,1,2,No,1,2,3,Artificial Intelligence and Machine Learning,Not Selected
+7.43,4,4,Yes,0,1,2,Artificial Intelligence and Machine Learning,Selected
+6.82,6,4,No,5,3,7,Data Science and Analytics,Selected
+8.03,4,3,No,2,4,9,Software Engineering,Selected
+6.75,3,3,No,4,6,8,Cybersecurity,Selected
+8.27,3,2,Yes,0,2,6,Artificial Intelligence and Machine Learning,Not Selected
+8.69,4,3,Yes,2,1,7,Software Engineering,Selected
+7.97,2,1,Yes,0,3,5,Cloud Computing,Not Selected
+7.31,8,5,No,1,3,8,Artificial Intelligence and Machine Learning,Selected
+8.05,1,2,No,2,7,8,Software Engineering,Not Selected
+7.29,4,3,Yes,1,1,5,Artificial Intelligence and Machine Learning,Selected
+8.54,8,5,No,3,1,9,Data Science and Analytics,Selected
+5.77,1,3,No,2,2,7,Data Science and Analytics,Not Selected
+7.26,3,2,No,2,3,8,Software Engineering,Not Selected
+5.61,6,3,No,1,1,4,Artificial Intelligence and Machine Learning,Not Selected
+6.1,4,4,No,3,5,8,Artificial Intelligence and Machine Learning,Selected
+8.96,3,4,Yes,0,3,6,Cybersecurity,Selected
+8.5,2,3,Yes,4,2,7,Mobile App Development,Selected
+6.88,3,3,No,1,1,3,Web Development,Not Selected
+6.1,2,2,No,0,2,2,Web Development,Not Selected
+5.0,4,3,No,2,2,8,Software Engineering,Selected
+7.06,1,2,No,0,3,4,Cloud Computing,Not Selected
+9.95,2,3,Yes,1,8,7,Artificial Intelligence and Machine Learning,Selected
+8.03,3,3,No,1,8,8,Artificial Intelligence and Machine Learning,Selected
+7.04,3,3,No,0,6,8,Data Science and Analytics,Selected
+8.07,4,3,Yes,2,6,8,Cybersecurity,Selected
+6.04,2,3,Yes,3,3,7,Cybersecurity,Not Selected
+7.3,2,3,No,4,2,5,Cloud Computing,Not Selected
+7.7,2,2,No,1,2,3,Web Development,Not Selected
+7.51,5,3,No,2,3,9,Mobile App Development,Selected
+8.39,1,4,No,2,5,7,Web Development,Selected
+7.94,3,5,No,2,2,5,Mobile App Development,Selected
+8.27,3,3,No,2,3,6,Web Development,Not Selected
+6.91,2,2,No,5,3,9,Web Development,Selected
+8.5,4,3,No,2,4,8,Web Development,Selected
+9.23,1,3,Yes,1,1,5,Artificial Intelligence and Machine Learning,Selected
+6.63,3,4,No,0,4,6,Data Science and Analytics,Selected
+6.71,1,1,No,2,2,5,Cybersecurity,Not Selected
+8.94,5,4,Yes,0,1,6,Mobile App Development,Selected
+7.41,7,4,Yes,2,4,8,Data Science and Analytics,Selected
+9.0,0,3,Yes,2,2,4,Data Science and Analytics,Not Selected
+7.16,1,2,Yes,1,2,4,Artificial Intelligence and Machine Learning,Selected
+9.06,1,2,No,2,4,7,Mobile App Development,Not Selected
+7.73,4,4,No,3,2,5,Web Development,Selected
+7.86,1,3,No,2,5,7,Artificial Intelligence and Machine Learning,Not Selected
+9.16,2,3,No,2,2,6,Web Development,Not Selected
+7.24,5,4,No,1,3,7,Web Development,Selected
+6.66,3,2,No,1,2,6,Cybersecurity,Not Selected
+7.15,2,2,No,0,1,3,Web Development,Not Selected
+8.05,1,3,No,0,5,5,Web Development,Not Selected
+6.03,3,3,No,2,3,7,Mobile App Development,Selected
+8.24,4,4,No,0,5,8,Web Development,Selected
+7.06,6,5,Yes,3,3,8,Cybersecurity,Selected
+8.75,2,2,No,3,3,6,Artificial Intelligence and Machine Learning,Not Selected
+5.21,2,2,Yes,2,3,6,Mobile App Development,Selected
+6.81,1,2,No,2,1,3,Cloud Computing,Not Selected
+5.91,2,2,Yes,3,5,10,Web Development,Selected
+6.77,2,3,Yes,1,4,7,Mobile App Development,Selected
+7.85,3,3,No,1,3,6,Data Science and Analytics,Selected
+7.42,7,3,Yes,2,3,7,Artificial Intelligence and Machine Learning,Selected
+7.35,1,2,No,2,1,5,Cybersecurity,Not Selected
+7.44,1,3,No,1,4,5,Cloud Computing,Not Selected
+7.8,1,3,Yes,2,7,7,Artificial Intelligence and Machine Learning,Selected
+6.59,3,3,No,2,1,6,Artificial Intelligence and Machine Learning,Not Selected
+8.31,1,3,No,2,3,6,Web Development,Not Selected
+8.26,4,4,No,1,3,3,Cybersecurity,Selected
+7.99,4,3,No,0,3,6,Software Engineering,Not Selected
+8.16,5,3,No,2,4,8,Data Science and Analytics,Selected
+7.9,1,3,No,1,2,4,Software Engineering,Not Selected
+9.64,2,3,No,2,1,5,Web Development,Not Selected
+7.51,4,4,No,3,3,5,Cloud Computing,Selected
+7.29,2,4,No,1,4,3,Software Engineering,Selected
+6.85,1,3,No,2,3,4,Cloud Computing,Not Selected
+6.57,7,4,Yes,0,5,9,Web Development,Selected
+6.36,3,3,No,5,3,4,Artificial Intelligence and Machine Learning,Selected
+6.71,2,2,No,3,7,8,Web Development,Not Selected
+7.53,4,3,Yes,0,3,4,Cybersecurity,Selected
+7.93,2,3,Yes,1,1,4,Software Engineering,Selected
+7.65,6,4,No,0,3,9,Artificial Intelligence and Machine Learning,Selected
+6.83,1,3,No,2,4,6,Web Development,Not Selected
+8.5,3,4,Yes,0,4,6,Artificial Intelligence and Machine Learning,Selected
+8.34,4,3,Yes,0,3,7,Cybersecurity,Not Selected
+7.44,3,2,No,2,1,5,Cybersecurity,Not Selected
+6.95,3,4,No,1,5,7,Artificial Intelligence and Machine Learning,Not Selected
+8.15,1,3,No,0,5,7,Cloud Computing,Not Selected
+7.79,3,3,No,1,5,8,Web Development,Selected
+6.15,0,2,Yes,1,1,3,Cybersecurity,Not Selected
+7.53,7,4,Yes,1,1,6,Data Science and Analytics,Selected
+7.86,5,4,No,0,2,5,Web Development,Selected
+6.7,2,3,No,0,1,5,Cybersecurity,Not Selected
+7.79,3,5,Yes,0,1,4,Cybersecurity,Selected
+6.15,2,3,No,2,1,6,Data Science and Analytics,Not Selected
+8.94,6,4,Yes,2,8,10,Cloud Computing,Selected
+8.85,2,2,No,0,2,6,Data Science and Analytics,Selected
+7.35,2,2,No,0,1,4,Artificial Intelligence and Machine Learning,Not Selected
+7.96,3,4,No,0,3,4,Software Engineering,Not Selected
+5.19,3,3,No,1,5,8,Software Engineering,Not Selected
+6.44,3,1,Yes,4,2,6,Web Development,Not Selected
+7.31,4,4,No,3,1,6,Software Engineering,Not Selected
+6.53,3,4,No,1,5,7,Cloud Computing,Not Selected
+8.31,3,2,No,1,3,6,Web Development,Not Selected
+9.6,2,4,No,2,4,8,Data Science and Analytics,Selected
+6.42,0,1,No,1,6,7,Web Development,Not Selected
+6.76,5,4,Yes,2,1,5,Cybersecurity,Selected
+7.84,3,3,No,1,2,4,Software Engineering,Not Selected
+9.21,0,1,No,2,2,5,Artificial Intelligence and Machine Learning,Not Selected
+6.38,4,3,No,4,1,7,Data Science and Analytics,Not Selected
+7.85,3,4,No,3,4,7,Artificial Intelligence and Machine Learning,Selected
+9.42,4,4,Yes,1,2,8,Data Science and Analytics,Selected
+5.95,4,3,No,0,2,6,Mobile App Development,Not Selected
+6.32,6,3,No,1,2,6,Web Development,Selected
+7.18,7,3,Yes,1,1,6,Data Science and Analytics,Selected
+7.08,3,3,Yes,1,6,8,Artificial Intelligence and Machine Learning,Selected
+8.41,4,5,Yes,1,4,7,Cloud Computing,Selected
+7.84,5,4,No,3,6,11,Cloud Computing,Selected
+5.83,6,2,No,0,4,9,Cloud Computing,Not Selected
+8.12,8,3,No,4,1,8,Artificial Intelligence and Machine Learning,Selected
+7.02,3,2,No,3,3,8,Cybersecurity,Not Selected
+8.87,3,2,Yes,1,4,8,Cybersecurity,Selected
+6.97,3,3,No,2,3,6,Cloud Computing,Not Selected
+6.96,0,2,Yes,1,5,6,Cybersecurity,Selected
+8.14,4,2,No,2,3,8,Mobile App Development,Selected
+8.36,2,3,No,3,2,6,Artificial Intelligence and Machine Learning,Not Selected
+8.05,4,4,No,2,2,5,Web Development,Selected
+5.91,3,2,No,1,4,6,Software Engineering,Not Selected
+8.14,5,3,Yes,1,1,5,Web Development,Selected
+6.57,7,2,No,1,2,6,Software Engineering,Selected
+7.84,6,4,No,1,3,6,Cybersecurity,Selected
+6.18,2,2,Yes,1,4,7,Software Engineering,Selected
+8.05,4,3,Yes,8,4,10,Cybersecurity,Selected
+6.79,3,3,No,4,4,6,Mobile App Development,Not Selected
+6.32,5,3,Yes,2,3,7,Cloud Computing,Selected
+8.31,5,3,No,4,5,9,Data Science and Analytics,Selected
+7.84,2,3,Yes,1,3,6,Artificial Intelligence and Machine Learning,Selected
+6.99,4,4,No,1,1,4,Web Development,Selected
+9.05,3,3,No,2,1,3,Artificial Intelligence and Machine Learning,Not Selected
+7.16,1,3,No,2,3,6,Software Engineering,Not Selected
+7.63,2,3,No,1,5,5,Artificial Intelligence and Machine Learning,Not Selected
+7.87,5,3,No,0,4,7,Cloud Computing,Selected
+6.98,3,3,No,0,2,5,Data Science and Analytics,Not Selected
+8.07,4,3,Yes,4,1,6,Artificial Intelligence and Machine Learning,Selected
+7.07,4,3,No,3,2,7,Software Engineering,Selected
+7.19,4,3,No,0,7,11,Web Development,Not Selected
+8.96,4,3,Yes,2,4,6,Cybersecurity,Selected
+6.56,0,2,No,3,5,8,Data Science and Analytics,Not Selected
+5.19,2,2,Yes,1,2,2,Web Development,Not Selected
+9.21,3,2,No,2,2,7,Web Development,Not Selected
+9.95,3,4,No,1,1,2,Cloud Computing,Not Selected
+7.19,2,3,No,1,6,11,Web Development,Selected
+5.66,3,3,No,3,3,6,Mobile App Development,Selected
+7.29,4,3,No,1,1,7,Cybersecurity,Selected
+7.31,2,4,Yes,2,5,9,Web Development,Selected
+7.41,4,3,No,0,3,6,Artificial Intelligence and Machine Learning,Selected
+6.49,5,3,Yes,4,5,9,Web Development,Selected
+8.18,1,2,No,1,3,4,Cloud Computing,Selected
+8.12,2,2,No,0,3,6,Data Science and Analytics,Not Selected
+6.11,1,3,No,2,1,3,Web Development,Not Selected
+8.3,4,4,Yes,3,3,6,Data Science and Analytics,Selected
+9.65,2,3,No,1,2,5,Data Science and Analytics,Not Selected
+7.77,3,2,No,1,2,4,Cybersecurity,Not Selected
+7.26,0,3,No,1,7,7,Web Development,Not Selected
+7.46,4,3,Yes,0,2,6,Web Development,Selected
+8.22,1,2,Yes,4,4,6,Artificial Intelligence and Machine Learning,Not Selected
+5.87,7,5,Yes,2,1,6,Cloud Computing,Selected
+7.76,9,5,No,1,5,12,Cybersecurity,Selected
+7.21,9,5,No,2,2,8,Artificial Intelligence and Machine Learning,Selected
+9.45,3,3,Yes,1,2,5,Web Development,Selected
+7.43,3,3,No,1,2,5,Cloud Computing,Not Selected
+9.27,2,2,No,3,4,8,Web Development,Selected
+6.5,4,2,No,0,2,4,Data Science and Analytics,Not Selected
+8.19,2,3,No,1,4,7,Data Science and Analytics,Not Selected
+7.92,3,4,No,3,2,6,Artificial Intelligence and Machine Learning,Selected
+6.73,4,3,No,2,3,5,Data Science and Analytics,Not Selected
+7.78,1,2,Yes,0,1,5,Web Development,Not Selected
+8.81,2,2,Yes,3,2,7,Cybersecurity,Selected
+7.28,8,4,No,0,3,7,Web Development,Selected
+5.91,3,3,No,2,5,6,Data Science and Analytics,Selected
+7.58,3,3,No,0,2,5,Data Science and Analytics,Not Selected
+6.7,4,3,No,0,4,5,Web Development,Not Selected
+7.26,3,2,No,3,4,9,Cybersecurity,Selected
+7.52,3,4,No,2,2,5,Cloud Computing,Not Selected
+5.89,3,1,No,1,3,8,Software Engineering,Not Selected
+5.98,2,3,No,2,4,6,Web Development,Not Selected
+8.08,0,4,No,2,5,6,Web Development,Not Selected
+7.08,5,2,No,0,3,8,Artificial Intelligence and Machine Learning,Not Selected
+5.04,2,2,Yes,1,4,6,Mobile App Development,Selected
+8.38,3,3,No,2,4,7,Data Science and Analytics,Selected
+7.87,5,3,No,1,1,7,Artificial Intelligence and Machine Learning,Selected
+6.89,3,4,No,1,6,7,Cloud Computing,Selected
+6.28,5,4,No,3,8,10,Web Development,Selected
+8.44,3,3,No,1,4,5,Data Science and Analytics,Selected
+7.95,5,4,No,1,3,8,Data Science and Analytics,Selected
+9.95,5,4,Yes,0,4,8,Cybersecurity,Selected
+8.02,3,5,No,4,7,11,Cloud Computing,Selected
+7.99,4,3,Yes,4,2,7,Artificial Intelligence and Machine Learning,Selected
+7.43,1,3,No,1,5,5,Cybersecurity,Not Selected
+8.42,0,1,No,2,1,1,Data Science and Analytics,Not Selected
+8.23,4,3,No,0,5,11,Web Development,Selected
+8.85,3,4,No,1,3,7,Mobile App Development,Selected
+7.08,1,1,No,5,2,6,Cloud Computing,Selected
+7.16,3,1,No,1,2,6,Software Engineering,Not Selected
+7.12,1,2,No,0,3,3,Cloud Computing,Not Selected
+8.39,6,5,Yes,0,5,8,Artificial Intelligence and Machine Learning,Selected
+9.1,4,3,No,1,3,9,Data Science and Analytics,Selected
+7.14,5,3,No,2,5,10,Artificial Intelligence and Machine Learning,Selected
+7.18,2,1,No,3,2,5,Web Development,Selected
+7.91,4,4,No,4,2,6,Data Science and Analytics,Selected
+7.35,8,5,Yes,4,3,9,Artificial Intelligence and Machine Learning,Selected
+8.55,3,2,Yes,4,1,5,Web Development,Selected
+5.35,4,4,Yes,0,3,9,Mobile App Development,Selected
+6.77,5,4,No,2,4,8,Web Development,Selected
+6.82,4,4,No,2,7,8,Data Science and Analytics,Selected
+5.28,3,3,No,2,4,7,Cloud Computing,Selected
+6.64,2,3,No,0,2,5,Cybersecurity,Not Selected
+6.68,1,3,No,0,4,4,Web Development,Not Selected
+7.4,3,4,No,0,3,6,Cybersecurity,Not Selected
+8.71,2,2,No,2,2,7,Cloud Computing,Selected
+7.35,4,2,No,0,1,5,Mobile App Development,Not Selected
+6.57,4,3,No,1,2,5,Artificial Intelligence and Machine Learning,Not Selected
+7.54,2,3,No,2,5,7,Web Development,Selected
+8.65,2,3,Yes,7,6,8,Cybersecurity,Selected
+6.62,2,3,No,5,3,7,Artificial Intelligence and Machine Learning,Not Selected
+6.69,2,3,No,2,2,6,Cloud Computing,Not Selected
+8.16,2,4,Yes,2,3,5,Cybersecurity,Selected
+7.38,1,2,No,2,3,8,Cloud Computing,Not Selected
+8.25,3,3,No,1,4,8,Software Engineering,Selected
+7.59,3,2,Yes,2,5,6,Cybersecurity,Selected
+8.3,1,2,No,1,1,1,Software Engineering,Not Selected
+6.56,5,4,No,1,2,5,Cybersecurity,Selected
+7.59,2,1,Yes,1,3,7,Web Development,Not Selected
+7.39,2,4,Yes,0,1,5,Cloud Computing,Not Selected
+6.38,3,3,Yes,2,1,7,Cloud Computing,Selected
+6.04,2,2,Yes,2,2,5,Software Engineering,Not Selected
+8.29,2,4,No,0,4,6,Artificial Intelligence and Machine Learning,Not Selected
+7.25,2,2,Yes,1,5,5,Artificial Intelligence and Machine Learning,Not Selected
+6.58,1,2,No,2,1,4,Mobile App Development,Not Selected
+7.5,3,3,Yes,2,3,6,Web Development,Selected
+8.73,2,4,Yes,2,4,6,Cybersecurity,Selected
+5.32,5,3,Yes,2,2,9,Data Science and Analytics,Not Selected
+6.1,5,3,Yes,2,6,9,Web Development,Selected
+6.68,2,3,No,2,2,7,Web Development,Selected
+9.06,4,4,Yes,2,4,6,Mobile App Development,Selected
+7.88,4,3,No,0,1,8,Web Development,Not Selected
+8.37,2,4,No,3,5,7,Cloud Computing,Not Selected
+6.46,7,5,Yes,5,2,10,Cloud Computing,Selected
+6.48,5,4,Yes,1,1,7,Cybersecurity,Selected
+8.05,3,3,No,1,1,4,Data Science and Analytics,Not Selected
+7.66,4,3,No,2,5,9,Web Development,Selected
+8.15,2,4,No,0,2,5,Mobile App Development,Selected
+7.41,3,2,No,3,3,6,Web Development,Not Selected
+7.88,3,3,No,0,4,5,Artificial Intelligence and Machine Learning,Selected
+7.76,5,2,Yes,2,2,7,Software Engineering,Not Selected
+8.38,1,2,No,1,2,4,Artificial Intelligence and Machine Learning,Not Selected
+8.41,3,3,Yes,1,3,8,Artificial Intelligence and Machine Learning,Not Selected
+5.98,5,3,No,1,4,9,Software Engineering,Not Selected
+5.35,4,4,Yes,0,2,5,Web Development,Not Selected
+8.6,7,5,No,1,1,7,Web Development,Selected
+8.79,4,3,Yes,4,4,6,Data Science and Analytics,Selected
+6.58,6,3,Yes,0,2,6,Cloud Computing,Selected
+5.74,6,4,Yes,1,6,10,Mobile App Development,Selected
+7.7,2,3,Yes,2,5,9,Cloud Computing,Selected
+8.53,6,4,Yes,2,5,10,Software Engineering,Selected
+9.4,3,3,No,1,4,8,Web Development,Selected
+8.12,3,4,No,0,4,7,Cybersecurity,Selected
+7.23,4,2,Yes,1,2,5,Web Development,Selected
+6.71,2,3,No,1,5,7,Software Engineering,Not Selected
+7.61,2,4,No,0,4,6,Software Engineering,Not Selected
+7.3,4,3,No,4,3,7,Artificial Intelligence and Machine Learning,Selected
+6.58,6,3,No,0,2,8,Mobile App Development,Selected
+9.65,7,5,No,1,5,8,Cybersecurity,Selected
+9.39,4,3,Yes,5,4,9,Web Development,Selected
+8.74,1,2,Yes,3,4,7,Cybersecurity,Selected
+6.68,1,3,No,1,3,5,Software Engineering,Not Selected
+8.46,5,4,Yes,1,1,5,Artificial Intelligence and Machine Learning,Selected
+8.24,2,3,No,1,3,5,Web Development,Not Selected
+8.04,2,2,Yes,1,4,7,Software Engineering,Not Selected
+8.85,4,3,No,0,5,7,Data Science and Analytics,Selected
+8.24,3,3,Yes,2,1,4,Data Science and Analytics,Selected
+8.34,2,2,Yes,0,1,5,Cloud Computing,Selected
+8.24,2,2,No,3,2,6,Cybersecurity,Selected
+7.94,3,4,No,3,2,7,Artificial Intelligence and Machine Learning,Selected
+5.82,2,3,No,0,2,5,Web Development,Not Selected
+7.68,4,4,No,0,2,8,Mobile App Development,Selected
+7.04,1,3,Yes,4,3,8,Data Science and Analytics,Selected
+6.32,2,3,No,2,3,5,Cybersecurity,Not Selected
+9.28,3,3,No,1,3,7,Mobile App Development,Selected
+9.33,6,4,No,4,5,9,Web Development,Selected
+8.96,1,2,No,0,5,5,Mobile App Development,Not Selected
+7.86,3,3,No,3,5,7,Cloud Computing,Selected
+8.95,3,3,No,1,1,4,Software Engineering,Selected
+7.61,0,2,No,3,3,6,Artificial Intelligence and Machine Learning,Not Selected
+7.8,5,3,No,1,3,7,Artificial Intelligence and Machine Learning,Selected
+6.51,8,4,Yes,1,1,6,Cybersecurity,Selected
+8.0,3,3,No,2,2,4,Software Engineering,Not Selected
+7.66,4,2,Yes,2,1,8,Software Engineering,Not Selected
+6.3,2,3,No,2,1,5,Data Science and Analytics,Not Selected
+7.55,3,4,No,1,1,4,Data Science and Analytics,Selected
+7.52,3,5,Yes,2,3,7,Web Development,Selected
+9.4,2,3,No,2,4,9,Cloud Computing,Selected
+8.49,4,3,No,2,5,9,Mobile App Development,Selected
+7.61,4,2,Yes,5,2,4,Cloud Computing,Selected
+7.85,2,3,No,4,2,9,Artificial Intelligence and Machine Learning,Selected
+7.64,6,4,Yes,1,1,4,Software Engineering,Selected
+7.4,8,4,Yes,4,3,9,Web Development,Selected
+6.52,2,2,Yes,0,4,4,Data Science and Analytics,Not Selected
+7.45,5,2,Yes,1,2,5,Data Science and Analytics,Not Selected
+6.85,2,3,No,2,3,6,Data Science and Analytics,Not Selected
+6.35,0,1,No,0,1,1,Cloud Computing,Not Selected
+8.11,0,2,No,3,6,7,Cybersecurity,Selected
+7.99,3,2,No,0,4,8,Web Development,Not Selected
+5.81,6,3,No,1,3,6,Web Development,Selected
+7.48,2,2,No,2,5,6,Data Science and Analytics,Selected
+8.6,1,3,No,2,3,5,Cloud Computing,Not Selected
+8.66,6,4,No,1,3,7,Data Science and Analytics,Selected
+8.63,4,4,No,3,4,7,Artificial Intelligence and Machine Learning,Selected
+7.64,3,3,No,1,1,3,Web Development,Not Selected
+6.75,1,3,Yes,1,1,4,Cloud Computing,Not Selected
+6.52,3,4,No,1,4,7,Data Science and Analytics,Selected
+7.94,3,3,Yes,4,3,6,Data Science and Analytics,Selected
+7.98,2,3,Yes,2,5,6,Data Science and Analytics,Selected
+8.89,4,4,Yes,2,3,7,Artificial Intelligence and Machine Learning,Selected
+8.7,4,4,No,1,3,5,Artificial Intelligence and Machine Learning,Selected
+7.47,3,3,Yes,0,3,6,Web Development,Selected
+6.36,5,2,Yes,2,1,8,Cloud Computing,Selected
+7.28,4,3,Yes,2,3,7,Artificial Intelligence and Machine Learning,Selected
+7.82,3,3,Yes,2,3,5,Artificial Intelligence and Machine Learning,Selected
+7.4,2,3,No,1,7,9,Software Engineering,Selected
+7.02,2,3,No,0,1,3,Artificial Intelligence and Machine Learning,Not Selected
+7.85,0,3,Yes,0,1,3,Data Science and Analytics,Selected
+7.1,2,4,No,1,2,5,Artificial Intelligence and Machine Learning,Selected
+6.97,3,4,Yes,2,2,7,Artificial Intelligence and Machine Learning,Selected
+7.91,1,3,No,2,2,5,Web Development,Not Selected
+7.2,1,2,No,2,4,6,Mobile App Development,Not Selected
+7.84,5,4,No,2,2,9,Data Science and Analytics,Selected
+7.87,3,3,No,3,4,9,Cloud Computing,Not Selected
+6.46,1,1,Yes,1,2,5,Software Engineering,Not Selected
+7.12,3,3,No,3,1,6,Web Development,Selected
+9.04,3,4,Yes,5,2,6,Cybersecurity,Selected
+6.44,6,4,No,3,3,10,Web Development,Selected
+5.48,1,4,Yes,1,3,5,Data Science and Analytics,Selected
+5.74,5,3,No,1,2,6,Mobile App Development,Selected
+7.63,1,4,No,1,3,5,Web Development,Not Selected
+7.63,4,3,No,3,5,8,Software Engineering,Selected
+7.48,1,2,No,2,3,7,Cybersecurity,Not Selected
+8.81,4,2,Yes,0,6,9,Artificial Intelligence and Machine Learning,Not Selected
+5.0,6,4,Yes,3,2,8,Web Development,Selected
+8.0,2,2,No,4,4,7,Cybersecurity,Selected
+9.16,4,3,No,3,4,7,Data Science and Analytics,Selected
+6.47,3,4,No,2,2,3,Web Development,Not Selected
+7.22,2,3,No,1,1,2,Data Science and Analytics,Not Selected
+6.85,3,4,No,2,3,6,Web Development,Not Selected
+6.71,2,2,No,1,4,5,Software Engineering,Not Selected
+7.27,5,3,Yes,3,1,7,Artificial Intelligence and Machine Learning,Selected
+9.03,1,3,Yes,3,3,7,Data Science and Analytics,Selected
+9.44,3,4,No,0,2,5,Cloud Computing,Selected
+7.26,1,3,No,1,3,7,Cloud Computing,Not Selected
+9.51,6,4,Yes,2,2,6,Mobile App Development,Selected
+7.64,5,5,No,3,4,8,Software Engineering,Selected
+9.35,3,4,No,1,5,7,Web Development,Selected
+7.51,1,2,No,2,4,7,Artificial Intelligence and Machine Learning,Selected
+7.73,0,3,No,2,8,9,Cloud Computing,Selected
+7.97,5,5,Yes,0,2,6,Web Development,Selected
+9.95,2,4,Yes,3,2,4,Cloud Computing,Selected
+8.45,1,3,Yes,1,7,7,Web Development,Selected
+6.89,5,3,Yes,2,2,8,Software Engineering,Selected
+8.57,4,3,No,2,3,4,Cloud Computing,Not Selected
+7.24,3,3,No,3,2,8,Cybersecurity,Selected
+7.11,4,4,No,1,3,7,Data Science and Analytics,Not Selected
+8.51,4,4,Yes,3,1,5,Software Engineering,Selected
+7.63,1,3,Yes,1,6,6,Cloud Computing,Selected
+7.88,10,5,Yes,2,3,12,Mobile App Development,Selected
+7.61,3,3,No,2,3,8,Mobile App Development,Selected
+7.94,3,3,No,1,2,5,Web Development,Not Selected
+8.02,6,4,No,0,1,6,Web Development,Selected
+5.66,2,4,Yes,0,1,3,Web Development,Not Selected
+8.27,5,3,No,2,5,9,Cybersecurity,Selected
+6.62,1,2,No,2,6,7,Cybersecurity,Not Selected
+6.16,3,2,No,4,1,6,Artificial Intelligence and Machine Learning,Not Selected
+7.54,4,4,No,1,1,7,Software Engineering,Selected
+7.68,3,4,No,3,1,5,Web Development,Not Selected
+6.91,2,4,Yes,3,3,5,Cloud Computing,Selected
+8.43,2,3,No,0,4,4,Data Science and Analytics,Not Selected
+6.26,3,3,No,0,1,4,Data Science and Analytics,Not Selected
+7.19,1,2,No,0,7,6,Web Development,Not Selected
+7.02,1,3,No,2,2,5,Cloud Computing,Selected
+7.55,4,3,No,2,4,6,Cloud Computing,Selected
+7.88,3,3,No,3,5,9,Artificial Intelligence and Machine Learning,Selected
+6.59,3,3,No,1,3,5,Data Science and Analytics,Not Selected
+8.32,2,3,No,2,2,5,Cybersecurity,Not Selected
+7.66,3,3,Yes,1,2,5,Artificial Intelligence and Machine Learning,Selected
+5.71,5,3,Yes,3,3,10,Cybersecurity,Selected
+5.64,2,4,Yes,0,2,5,Data Science and Analytics,Not Selected
+7.59,2,5,No,2,3,8,Mobile App Development,Not Selected
+7.38,1,2,No,1,4,6,Cloud Computing,Not Selected
+7.5,3,2,Yes,2,6,10,Web Development,Selected
+7.57,5,3,No,2,4,8,Cloud Computing,Selected
+7.83,6,4,No,4,4,10,Artificial Intelligence and Machine Learning,Selected
+8.55,6,5,Yes,2,1,8,Software Engineering,Selected
+6.49,2,3,Yes,0,2,5,Cybersecurity,Not Selected
+6.43,1,2,No,4,4,8,Web Development,Not Selected
+6.51,2,3,No,1,2,4,Cloud Computing,Not Selected
+7.89,5,3,Yes,2,3,7,Web Development,Selected
+8.84,3,3,No,1,3,7,Mobile App Development,Selected
+7.17,3,3,Yes,1,1,6,Software Engineering,Not Selected
+5.1,1,1,No,0,4,5,Cloud Computing,Not Selected
+5.9,4,2,Yes,0,2,5,Data Science and Analytics,Not Selected
+6.77,5,3,Yes,2,3,6,Cybersecurity,Selected
+7.04,1,3,No,2,2,6,Data Science and Analytics,Not Selected
+7.19,2,3,No,0,5,5,Web Development,Not Selected
+7.64,2,3,Yes,3,1,6,Software Engineering,Selected
+7.29,0,1,No,1,3,5,Artificial Intelligence and Machine Learning,Not Selected
+8.65,3,2,No,1,5,7,Artificial Intelligence and Machine Learning,Not Selected
+6.92,2,3,No,2,3,8,Web Development,Not Selected
+6.74,5,1,No,0,3,5,Software Engineering,Not Selected
+8.08,6,5,No,1,2,9,Software Engineering,Selected
+6.06,4,2,No,1,3,7,Artificial Intelligence and Machine Learning,Not Selected
+7.99,1,3,Yes,0,4,3,Artificial Intelligence and Machine Learning,Selected
+7.7,1,2,Yes,1,3,7,Mobile App Development,Selected
+7.45,1,3,No,1,5,8,Data Science and Analytics,Selected
+9.19,1,5,No,3,1,4,Software Engineering,Selected
+6.98,7,2,No,1,3,7,Software Engineering,Not Selected
+9.66,3,4,No,1,2,3,Cloud Computing,Selected
+7.37,0,1,No,3,5,10,Web Development,Not Selected
+6.32,3,3,No,0,3,4,Cloud Computing,Not Selected
+7.67,4,3,No,2,1,4,Software Engineering,Selected
+6.52,1,2,No,1,4,6,Artificial Intelligence and Machine Learning,Not Selected
+6.85,5,3,No,2,2,5,Mobile App Development,Selected
+8.0,6,4,No,4,6,10,Data Science and Analytics,Selected
+8.16,3,2,No,3,1,7,Software Engineering,Not Selected
+6.98,4,4,No,0,2,6,Cybersecurity,Not Selected
+8.59,2,3,No,1,3,5,Web Development,Not Selected
+8.76,6,3,Yes,0,3,7,Data Science and Analytics,Selected
+9.04,2,4,No,2,7,8,Web Development,Selected
+8.13,1,2,No,5,3,7,Artificial Intelligence and Machine Learning,Not Selected
+8.96,4,5,Yes,3,6,8,Software Engineering,Selected
+5.72,2,3,No,2,3,5,Artificial Intelligence and Machine Learning,Not Selected
+7.28,2,2,No,1,3,5,Software Engineering,Not Selected
+6.73,3,3,No,3,2,5,Web Development,Selected
+7.72,3,3,Yes,1,2,7,Cybersecurity,Not Selected
+7.03,3,4,Yes,1,1,6,Software Engineering,Selected
+7.43,3,3,No,2,5,7,Cybersecurity,Selected
+9.48,3,3,Yes,1,3,5,Mobile App Development,Selected
+7.43,4,3,No,3,1,6,Software Engineering,Not Selected
+8.01,3,3,Yes,3,5,11,Cybersecurity,Selected
+7.37,3,4,No,0,5,6,Cloud Computing,Selected
+7.68,4,3,No,2,4,7,Web Development,Selected
+7.61,3,3,Yes,1,1,5,Data Science and Analytics,Selected
+8.05,3,3,Yes,1,2,5,Artificial Intelligence and Machine Learning,Selected
+8.77,5,3,No,5,2,7,Mobile App Development,Selected
+9.25,4,2,Yes,3,1,7,Cybersecurity,Selected
+7.91,2,2,No,0,3,6,Cybersecurity,Not Selected
+8.19,5,5,No,2,3,8,Software Engineering,Selected
+6.45,4,3,Yes,2,2,7,Web Development,Selected
+7.51,3,3,No,2,3,7,Software Engineering,Selected
+8.54,3,1,No,0,5,9,Web Development,Not Selected
+8.47,5,4,Yes,2,6,11,Artificial Intelligence and Machine Learning,Selected
+7.81,3,3,No,0,4,9,Cybersecurity,Selected
+8.49,2,2,No,1,1,6,Artificial Intelligence and Machine Learning,Not Selected
+8.09,7,4,No,1,1,6,Cloud Computing,Selected
+8.8,3,3,Yes,2,1,6,Cloud Computing,Selected
+7.89,3,1,No,1,2,6,Mobile App Development,Not Selected
+7.24,2,3,No,1,3,8,Web Development,Not Selected
+7.94,2,3,Yes,0,1,3,Web Development,Not Selected
+5.0,0,2,No,2,2,5,Web Development,Not Selected
+7.98,2,2,No,0,2,4,Data Science and Analytics,Not Selected
+5.0,2,1,No,5,2,7,Web Development,Not Selected
+5.88,4,3,Yes,2,2,6,Artificial Intelligence and Machine Learning,Not Selected
+8.05,4,4,No,1,3,7,Mobile App Development,Not Selected
+8.08,2,3,Yes,0,3,3,Software Engineering,Selected
+6.44,2,2,No,1,4,7,Mobile App Development,Selected
+6.89,2,3,No,3,3,7,Web Development,Selected
+8.97,4,3,Yes,2,6,9,Cybersecurity,Selected
+7.12,2,3,Yes,1,1,6,Web Development,Not Selected
+9.84,4,4,Yes,2,7,9,Artificial Intelligence and Machine Learning,Selected
+7.6,1,1,No,1,6,8,Data Science and Analytics,Not Selected
+8.01,4,4,Yes,0,4,7,Software Engineering,Selected
+9.22,3,2,Yes,1,4,7,Cybersecurity,Selected
+7.73,4,2,No,0,4,9,Artificial Intelligence and Machine Learning,Not Selected
+6.6,7,4,Yes,3,3,9,Cybersecurity,Selected
+7.49,1,3,Yes,4,4,6,Software Engineering,Selected
+7.56,0,1,Yes,2,3,7,Web Development,Not Selected
+6.24,1,3,Yes,3,4,6,Mobile App Development,Not Selected
+7.34,4,4,No,2,3,5,Web Development,Selected
+6.86,3,3,No,1,2,4,Web Development,Selected
+8.52,2,2,No,2,4,5,Mobile App Development,Not Selected
+7.63,3,2,No,2,4,5,Web Development,Not Selected
+7.32,4,4,No,1,2,5,Cloud Computing,Not Selected
+7.49,5,2,Yes,2,2,7,Web Development,Not Selected
+7.82,1,3,Yes,2,2,6,Cybersecurity,Not Selected
+8.22,2,3,No,2,2,6,Cybersecurity,Not Selected
+6.6,3,3,Yes,0,1,5,Mobile App Development,Selected
+6.56,3,2,No,3,3,6,Mobile App Development,Not Selected
+8.7,4,3,No,2,7,11,Cloud Computing,Selected
+7.19,3,3,No,2,5,9,Artificial Intelligence and Machine Learning,Not Selected
+6.18,1,1,No,1,4,6,Web Development,Not Selected
+8.04,5,4,No,2,1,7,Cybersecurity,Selected
+8.06,3,3,Yes,0,6,6,Data Science and Analytics,Selected
+6.07,7,3,Yes,0,2,8,Web Development,Selected
+7.83,0,3,No,0,3,6,Software Engineering,Not Selected
+8.34,3,2,No,1,3,6,Artificial Intelligence and Machine Learning,Not Selected
+7.97,3,3,No,1,3,5,Web Development,Selected
+8.23,5,5,Yes,1,3,7,Software Engineering,Selected
+6.2,2,3,Yes,3,5,7,Cybersecurity,Selected
+7.93,4,4,No,2,1,5,Cloud Computing,Selected
+7.3,1,2,No,2,4,7,Web Development,Not Selected
+7.12,4,3,No,2,5,9,Data Science and Analytics,Selected
+8.47,4,3,Yes,1,4,8,Cybersecurity,Selected
+9.08,0,3,No,0,5,6,Artificial Intelligence and Machine Learning,Not Selected
+9.39,4,3,No,0,5,6,Cloud Computing,Selected
+8.91,6,4,No,4,3,8,Artificial Intelligence and Machine Learning,Selected
+7.49,2,4,No,1,4,6,Web Development,Not Selected
+7.95,1,2,No,0,1,3,Web Development,Not Selected
+8.37,0,1,No,3,4,8,Artificial Intelligence and Machine Learning,Not Selected
+7.72,3,2,Yes,1,1,7,Artificial Intelligence and Machine Learning,Not Selected
+7.73,4,4,No,3,4,9,Cloud Computing,Selected
+8.42,3,3,No,0,5,7,Cybersecurity,Not Selected
